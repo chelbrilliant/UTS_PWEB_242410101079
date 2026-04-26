@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title', 'Profil – PerpusOnline')
+@section('title', 'Profil – Perpustakaan Digital')
 
 @section('style')
 <style>
